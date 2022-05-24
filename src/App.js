@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Button from './Button'
+import { DidomiSDK } from '@didomi/react';
 
 class App extends Component {
   constructor() {
